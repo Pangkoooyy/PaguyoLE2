@@ -1,0 +1,15 @@
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\bin\Debug\net8.0\BlogTestUI.exe
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\bin\Debug\net8.0\BlogTestUI.deps.json
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\bin\Debug\net8.0\BlogTestUI.runtimeconfig.json
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\bin\Debug\net8.0\BlogTestUI.dll
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\bin\Debug\net8.0\BlogTestUI.pdb
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.AssemblyInfoInputs.cache
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.AssemblyInfo.cs
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.csproj.CoreCompileInputs.cache
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.sourcelink.json
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.dll
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\obj\Debug\net8.0\refint\BlogTestUI.dll
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.pdb
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.genruntimeconfig.cache
+C:\Users\Marc\source\repos\PaguyoLE2\BlogTestUI\obj\Debug\net8.0\ref\BlogTestUI.dll

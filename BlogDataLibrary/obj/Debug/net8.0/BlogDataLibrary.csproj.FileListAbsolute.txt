@@ -1,0 +1,13 @@
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\bin\Debug\net8.0\BlogDataLibrary.deps.json
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\bin\Debug\net8.0\BlogDataLibrary.dll
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\bin\Debug\net8.0\BlogDataLibrary.pdb
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.AssemblyInfoInputs.cache
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.AssemblyInfo.cs
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.sourcelink.json
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.dll
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\obj\Debug\net8.0\refint\BlogDataLibrary.dll
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.pdb
+C:\Users\Marc\source\repos\PaguyoLE2\BlogDataLibrary\obj\Debug\net8.0\ref\BlogDataLibrary.dll

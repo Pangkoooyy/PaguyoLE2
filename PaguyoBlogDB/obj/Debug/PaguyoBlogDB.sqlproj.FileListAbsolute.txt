@@ -1,0 +1,6 @@
+C:\Users\Marc\source\repos\PaguyoLE2\PaguyoBlogDB\bin\Debug\PaguyoBlogDB.dacpac
+C:\Users\Marc\source\repos\PaguyoLE2\PaguyoBlogDB\bin\Debug\PaguyoBlogDB.dll
+C:\Users\Marc\source\repos\PaguyoLE2\PaguyoBlogDB\bin\Debug\PaguyoBlogDB.pdb
+C:\Users\Marc\source\repos\PaguyoLE2\PaguyoBlogDB\obj\Debug\PaguyoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Marc\source\repos\PaguyoLE2\PaguyoBlogDB\obj\Debug\PaguyoBlogDB.dll
+C:\Users\Marc\source\repos\PaguyoLE2\PaguyoBlogDB\obj\Debug\PaguyoBlogDB.pdb
