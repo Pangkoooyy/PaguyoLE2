@@ -55,18 +55,21 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Tables" />
+    <Folder Include="Stored Procedures" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\Users.sql" />
     <Build Include="Tables\Posts.sql" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="PaguyoBlogDB.publish.xml" />
-    <None Include="PaguyoBlogDB_1.publish.xml" />
-    <None Include="PaguyoBlogDB_2.publish.xml" />
-    <None Include="PaguyoBlogDB_3.publish.xml" />
+    <Build Include="Stored Procedures\spUsers_Authenticate.sql" />
+    <Build Include="Stored Procedures\spUsers_Register.sql" />
+    <Build Include="Stored Procedures\spPosts_Insert.sql" />
+    <Build Include="Stored Procedures\spPosts_List.sql" />
+    <Build Include="Stored Procedures\spPosts_Detail.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="PaguyoBlogDB.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PaguyoBlogDB.publish.xml" />
   </ItemGroup>
 </Project>

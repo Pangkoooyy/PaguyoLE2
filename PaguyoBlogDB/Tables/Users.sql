@@ -4,5 +4,5 @@
     [Username] NVARCHAR(16) NOT NULL, 
     [Firstname] NVARCHAR(50) NOT NULL, 
     [Lastname] NVARCHAR(50) NOT NULL, 
-    [Password] NCHAR(16) NOT NULL,
+    [Password] NVARCHAR(16) NOT NULL,
 )
